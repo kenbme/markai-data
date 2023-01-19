@@ -2,5 +2,9 @@
     {
         "name": "Exemplo",
         "path": "exemplo"
+    } ,
+    {
+        "name": "Estrutura de Dados",
+        "path": "estrutura-de-dados"
     } 
 ]
