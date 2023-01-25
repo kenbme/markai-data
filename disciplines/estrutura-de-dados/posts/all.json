@@ -2,5 +2,9 @@
     {
         "name": "Notação e análise assintótica",
         "path": "notacao-e-analise-assintotica.pdf"
-    } 
+    },
+    {
+        "name": "Introdução a análise de algoritmos",
+        "path": "introducao-a-analise-de-algoritmos.pdf"
+    }
 ]
